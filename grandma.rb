@@ -14,4 +14,5 @@
 
 input_phrase = "I LOVE YOU GRANDMA!"
 
-def speak_to_grandma(greeting)
+def speak_to_grandma(phrase)
+  if phrase == phrase.upcase
